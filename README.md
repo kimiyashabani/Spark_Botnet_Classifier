@@ -9,8 +9,8 @@ The `Botnet_Classifier.ipynb` notebook provides an end-to-end solution for ident
 ## Table of Contents
 
 - [Installation](#installation)
-
 - [Usage](#usage)
+- [Function](#FunctionDefinitions)
 
 ## Installation
 
@@ -28,13 +28,12 @@ To run the notebook, you'll need to have the following dependencies installed:
 
 You can install the required packages using `pip`:
 
-```bash
-
-pip install jupyter pandas numpy scikit-learn matplotlib seaborn
-
-For cloning the repository:
-
-git clone https://github.com/yourusername/Botnet_Classifier.git
+    ```bash
+    pip install jupyter pandas numpy scikit-learn matplotlib seaborn
+    
+    For cloning the repository:
+    
+    git clone https://github.com/yourusername/Botnet_Classifier.git
 
 ## Usage
 
